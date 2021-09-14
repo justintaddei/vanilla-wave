@@ -1,5 +1,5 @@
 {
-  "name": "npm-ts-template",
+  "name": "vanilla-wave",
   "private": true,
   "version": "0.0.0",
   "description": "A template for typescript-based npm packages",
@@ -30,15 +30,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justintaddei/npm-ts-template.git"
+    "url": "git+https://github.com/justintaddei/vanilla-wave.git"
   },
   "keywords": [],
   "author": "Justin Taddei <justin@justintaddei.com> (https://justintaddei.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justintaddei/npm-ts-template/issues"
+    "url": "https://github.com/justintaddei/vanilla-wave/issues"
   },
-  "homepage": "https://github.com/justintaddei/npm-ts-template#readme",
+  "homepage": "https://github.com/justintaddei/vanilla-wave#readme",
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^12.1.4",
